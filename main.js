@@ -1,6 +1,8 @@
 //Let's see if i'm doing this right
 
-var test = "Bacon & Eggs";
+
+var test = "Pancakes";
+
 var dying = false;
 var imHungry = 3;
 
