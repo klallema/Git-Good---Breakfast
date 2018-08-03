@@ -1,7 +1,7 @@
 //Let's see if i'm doing this right
 
 
-var test = "Pancakes";
+var test = "Earl Grey";
 
 var dying = false;
 var imHungry = 3;
