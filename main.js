@@ -1,6 +1,6 @@
 //Let's see if i'm doing this right
 
-var solved;
+var test;
 var dying = false;
 var imHungry = 3;
 
